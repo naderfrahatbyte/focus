@@ -1,0 +1,6 @@
+{
+  "name": "أهدافي وتركيز | My Goals & Focus",
+  "description": "تطبيق متكامل لإدارة الأهداف والعادات مع قسم Focus ونظام اقتصادي ذكي للرصيد والتحكم في استخدام تطبيقات الهاتف.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
